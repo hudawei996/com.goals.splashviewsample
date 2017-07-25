@@ -7,6 +7,7 @@
 - 回调响应图片点击事件
 - 倒计时 Dismiss View，主动跳过 Dissmiss View
 - 本地没有缓存时，显示默认图片或者不显示 SplashView
+- 每次App唤醒，都可以再次显示闪屏
 
 <!-- more -- > 
 
